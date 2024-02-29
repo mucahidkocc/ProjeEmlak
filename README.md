@@ -35,8 +35,9 @@
 ![image](https://github.com/mucahidkocc/ProjeEmlak/assets/34806783/8c534264-e69b-4b0a-b4dc-53b5e190cc66)
 #### Emlak Türü alanının satılık filtresine göre listelenmesi.
 ![image](https://github.com/mucahidkocc/ProjeEmlak/assets/34806783/0e13f397-6e90-4072-bfd7-d17d86515aec)
-
 ### Veritabanı
 #### Veritabanı tabloları ve ilişkileri.
 ![image](https://github.com/mucahidkocc/ProjeEmlak/assets/34806783/c23ad8a6-74ff-4bb8-b366-1945afe1effd)
+#### Projeye ait Postgresql Backup 
+[emlak.zip](https://github.com/mucahidkocc/ProjeEmlak/files/14453456/emlak.zip)
 
